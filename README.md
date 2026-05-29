@@ -104,4 +104,10 @@ Si alguno falta, ejecuta primero el ETL y despues el notebook para regenerar el 
 3. Lanzar la web con `streamlit run webapp/app.py`.
 4. Probar cambios en `phot_rp_mean_mag`, `e_Gmag` y `bp_rp` para mostrar sensibilidad del modelo.
 
+## Licencia
 
+Este proyecto está distribuido bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## Autor
+
+**Autor:** Ignacio Torres Priego
